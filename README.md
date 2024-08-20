@@ -5,7 +5,7 @@ The user can enter the records of students and store them in a database called S
 
 
 ## Warning
-This project was created on Google Colab and hence may not work properly when run locally on the machine. Also this project stores the database file in Google Drive. Hence it is recommended to run the Python script in Google Colab only.
+This project was created on Google Colab and hence may not work properly when run locally on the machine. Also this project stores the database file in Google Drive. Hence, it is recommended to run the Python script in Google Colab only.
 
 
 ## Features
